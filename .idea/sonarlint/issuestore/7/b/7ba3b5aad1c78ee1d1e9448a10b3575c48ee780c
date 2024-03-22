@@ -1,0 +1,20 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã•Ò¶8¾Ìİ¨æ1
+
+java:S1598"_This file "doc.java" should be located in "idfile" directory, not in "D:\New folder\indoc\src".(¤àˆåûÿÿÿÿ8œáÜ¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(¾çª°8·áÜ¨æ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ã‰òÚÿÿÿÿÿ8½áÜ¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(ûåóˆ8¿áÜ¨æ1
+L	java:S106"+Replace this use of System.out by a logger.(«óÜÒÿÿÿÿÿ8¿áÜ¨æ1
+L	java:S106"+Replace this use of System.err by a logger.(Ğİ©¬üÿÿÿÿ8ÀáÜ¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(ñà÷ó8ÁáÜ¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(Âèüç8ÂáÜ¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(ÃÇ¾Î8ÃáÜ¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(¨İõŠ8ÃáÜ¨æ1
+\	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ÄáÜ¨æ1
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ÄáÜ¨æ1
+L	java:S106"+Replace this use of System.out by a logger.(®“ï¦şÿÿÿÿ8ÅáÜ¨æ1
+L	java:S106"+Replace this use of System.out by a logger.(À •™üÿÿÿÿ8ÆáÜ¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(äã–8ÆáÜ¨æ1

@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«•ú¯8÷“Õ¨æ1
+~
+java:S1598"aThis file "Main.java" should be located in "docfile" directory, not in "D:\New folder\indoc\src".(º³—×8´¬Ò¨æ1
+L	java:S106	"+Replace this use of System.out by a logger.(æ®˜ûÿÿÿÿ8Í¬Ò¨æ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ã‰òÚÿÿÿÿÿ8Ò¬Ò¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(ûåóˆ8Ó¬Ò¨æ1
+L	java:S106"+Replace this use of System.out by a logger.(Ëêß‚ÿÿÿÿÿ8Õ¬Ò¨æ1
+L	java:S106"+Replace this use of System.err by a logger.(±ƒÆÚıÿÿÿÿ8×¬Ò¨æ1
+G	java:S106"+Replace this use of System.out by a logger.(äã–8Ù¬Ò¨æ1
